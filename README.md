@@ -40,11 +40,9 @@ Real-time graphs for historical speed data
 
 Modular codebase with class-based design
 
-Optional CSV/Excel exports
 
 A setup installer for Windows & Linux
 
-This new version will be cleaner, more scalable, and maintainable — serving both as a tool and a personal milestone in my developer journey.
 
 
 ####How to install requirements 
